@@ -1,0 +1,101 @@
+{
+    "World": {
+	"Name": "Europe",
+	"Year": 1984,
+        "Countries": [
+	    {
+		"Country": {
+		    "Name": "Luxembourg",
+		    "Settlements": [
+			"Settlement": { 
+			    "Name": "Luxembourg City", "Population": 76420,
+			    "Type": "SETTLEMENT_CITY",
+			    "Area": 51, "Features": [ "SETTLEMENT_CAPITAL", ]
+			},
+			"Settlement": {
+			    "Name": "Diekirch", "Population": 6165,
+			    "Type": "SETTLEMENT_TOWN", "Area": 12, 
+			},
+			"Settlement": {
+			    "Name": "Differdange", "Population": 19005,
+			    "Type": "SETTLEMENT_TOWN", "Area": 22,
+			},
+			"Settlement": {
+			    "Name": "Dudelange", "Population": 17618,
+			    "Type": "SETTLEMENT_TOWN", "Area": 21,
+			},
+			"Settlement": {
+			    "Name": "Echternach", "Population": 4507,
+			    "Type": "SETTLEMENT_TOWN", "Area": 20,
+			},
+			"Settlement": {
+			    "Name": "Esch-sur-Alzette", "Population": 28000,
+			    "Type": "SETTLEMENT_TOWN", "Area": 14,
+			},
+			"Settlement": {
+			    "Name": "Ettelbruck", "Population": 7364,
+			    "Type": "SETTLEMENT_TOWN", "Area": 15,
+			},
+			"Settlement": {
+			    "Name": "Grevenmacher", "Population": 3966,
+			    "Type": "SETTLEMENT_TOWN", "Area": 16,
+			},
+			"Settlement": {
+			    "Name": "Remich", "Population": 2986,
+			    "Type": "SETTLEMENT_TOWN", "Area": 5,
+			},
+			"Settlement": {
+			    "Name": "Rumelange", "Population": 4495,
+			    "Type": "SETTLEMENT_TOWN", "Area": 7,
+			},
+			"Settlement": {
+			    "Name": "Vianden", "Population": 1561,
+			    "Type": "SETTLEMENT_TOWN", "Area": 10,
+			},
+			"Settlement": {
+			    "Name": "Wiltz", "Population": 4587,
+			    "Type": "SETTLEMENT_TOWN", "Area": 19,
+			},
+		    ]
+		}
+	    },
+	    {
+		"Country": {
+		    "Name": "Andorra", 
+		    "Settlements": [
+			"Settlement": {
+			    "Name": "Andorra la Vella", "Population": 22398,
+			    "Type": "SETTLEMENT_CITY",
+			    "Area": 12, "Features": [ "SETTLEMENT_CAPITAL", ]
+			},
+			"Settlement": {
+			    "Name": "Canillio", "Population": 4133
+			    "Type": "SETTLEMENT_VILLAGE", "Area": 110,
+			},
+			"Settlement": {
+			    "Name": "La Massana", "Population": 9902,
+			    "Type": "SETTLEMENT_TOWN", "Area": 61,
+			},
+			"Settlement": {
+			    "Name": "Ordino", "Population": 4417,
+			    "Type": "SETTLEMENT_VILLAGE", "Area": 90,
+			},
+			"Settlement": {
+			    "Name": "Sant Julia de Loria", "Population": 9063,
+			    "Type": "SETTLEMENT_TOWN", "Area": 61,
+			},
+			"Settlement": {
+			    "Name": "Encamp", "Population": 12051,
+			    "Type": "SETTLEMENT_TOWN", "Area": 84,
+			},
+			"Settlement": {
+			    "Name": "Escaldes-Engordany", "Population": 14282,
+			    "Type": "SETTLEMENT_TOWN", "Area": 30,
+			},
+		    ]
+		}
+	    },
+
+        ]
+    }
+}

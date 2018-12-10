@@ -1,0 +1,20 @@
+{
+    "Name": "Europe",
+    "Year": 1984,
+    "Countries": [
+	{
+	    "Name": "Luxembourg",
+	    "Settlements": [
+		{ 
+		    "Name": "Luxembourg City", "Population": 76420,
+		    "Type": "SETTLEMENT_CITY",
+		    "Area": 51, "Features": [ "SETTLEMENT_CAPITAL", ]
+		},
+		{
+		    "Name": "Diekirch", "Population": 6165,
+		    "Type": "SETTLEMENT_TOWN", "Area": 12, 
+		},
+	    ]
+	},
+    ]
+}
